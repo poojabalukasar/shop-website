@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon backend/server.js",
     "start": "node backend/server.js",
-  },
+  }
   "author": "pooja kasar",
   "license": "ISC",
   "dependencies": {
